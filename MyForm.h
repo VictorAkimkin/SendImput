@@ -1988,7 +1988,6 @@ namespace SendImput {
 		k_obj->UseVisualStyleBackColor = false;
 		if (textBox1->Text != "") textBox1->Text += "+";
 		textBox1->Text += k_name;
-		
 	}
 
 	private: System::Void ClearButton_Click(System::Object^ sender, System::EventArgs^ e) {
